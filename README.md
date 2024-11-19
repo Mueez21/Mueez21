@@ -1,4 +1,5 @@
-# Hi, I'm [Mueez Mejbah] 👋  
+# Hi, I'm Mueez Mejbah
+<img src="PP.jpg" alt="Your Name" width="150" style="border-radius:50%">
 
 ## 🌟 About Me
 🎓 I'm a fourth-semester **Electronics and Telecommunication Engineering** student at **CUET** with a deep passion for programming and technology.  
