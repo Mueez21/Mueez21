@@ -1,9 +1,5 @@
 # Hi, I'm [Mueez Mejbah] 👋  
 
-![Welcome Banner](https://imgur.com/link-to-your-banner-image.png)
-
----
-
 ## 🌟 About Me
 🎓 I'm a fourth-semester **Electronics and Telecommunication Engineering** student at **CUET** with a deep passion for programming and technology.  
 
@@ -48,5 +44,3 @@ Let’s collaborate and grow together! 🌟
 - ✉️ [Email Me](mueezmejbah284@gmail.com)  
 - 🌍 [Facebook](https://www.facebook.com/mueezmejbah.mmg.3) 
 ---
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.visitor-badge)
